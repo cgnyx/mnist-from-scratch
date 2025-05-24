@@ -89,3 +89,6 @@ Data Transposition: Correctly shaped input data (X_train, X_dev) to have feature
 One-Hot Encoding Fixes: Corrected the one_hot function's dimension creation to properly encode labels.
 
 Hyperparameter Tuning: It was observed that a smaller learning rate (alpha, e.g., 0.001 or 0.0001) was crucial for the model to learn effectively, overcoming initial random-guessing performance.
+
+License
+This project is open-source and available under the MIT License.
